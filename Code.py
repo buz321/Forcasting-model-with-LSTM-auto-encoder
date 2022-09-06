@@ -1,6 +1,3 @@
-* linguist-vendored
-*.python linguist-vendored=false
-
 # import necessary libraries 
 import os
 import random
