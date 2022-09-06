@@ -1,4 +1,4 @@
 *html linguist-detectable = false 
 
-* linguist-vendored
-*.python linguist-vendored=false
+* linguist-documentation=false
+* linguist-vendored=false
