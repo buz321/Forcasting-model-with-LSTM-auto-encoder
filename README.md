@@ -1,6 +1,6 @@
 # Forcasting-model-with-LSTM-auto-encoder
 
-Forcasting stock return with machine learning methods based on the historical data
+Forcasting stock return with deep learning methods based on the historical data
 
 # Result Analysis
 # 1
